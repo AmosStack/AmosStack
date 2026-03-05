@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **@Amos-codes-cloud**
+# 👋 Hi, I’m **@AmosStack**
 
 * 👀 I’m interested in **Cloud Computing** and **Artificial Intelligence**
 * 🌱 I’m currently learning **Android development**
