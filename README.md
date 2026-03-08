@@ -12,8 +12,6 @@
 
 I'm **AmosStack**, a passionate **Software Developer and Information Systems student** interested in building intelligent systems and scalable applications.
 
-My technical interests include **Cloud Computing, Artificial Intelligence, Web & App Development, and IoT systems**.
-
 ---
 
 ## 🚀 About Me
@@ -83,10 +81,6 @@ My technical interests include **Cloud Computing, Artificial Intelligence, Web &
 
 <p align="center">
 
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 
