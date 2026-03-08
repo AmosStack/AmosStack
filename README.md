@@ -80,10 +80,7 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-
+<img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
