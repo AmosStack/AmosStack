@@ -43,7 +43,7 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📊
 
 <p align="center">
 
@@ -57,7 +57,7 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph 📈
 
 <p align="center">
 
@@ -103,5 +103,6 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 </div>
 
 ---
-
-⭐ **Thanks for visiting my profile!**
+<div align="center">
+ **Thanks for visiting my profile!**
+</div>
