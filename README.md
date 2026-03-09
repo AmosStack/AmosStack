@@ -94,17 +94,44 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 
 ## 🤝 Connect With Me
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <div align="center">
 
 <a href="mailto:amgenious28@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail"/>
 </a>
 
 <a href="https://github.com/AmosStack">
-<img src="https://img.icons8.com/color/48/github.png"/>
+<img src="https://img.icons8.com/color/48/github.png" alt="github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR-TWITTER">
+<img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR-INSTAGRAM">
+<img src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram"/>
+</a>
+
+<a href="https://t.me/YOUR-TELEGRAM">
+<img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram"/>
+</a>
+
+<a href="https://wa.me/YOUR-NUMBER">
+<img src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.icons8.com/color/48/domain.png" alt="website"/>
 </a>
 
 </div>
+
 
 ---
 <div align="center">
