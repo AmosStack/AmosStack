@@ -92,9 +92,7 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 
 ---
 
-## 🤝 Connect With Me
-
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <div align="center">
 
