@@ -104,27 +104,27 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 <img src="https://img.icons8.com/color/48/github.png" alt="github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/amos-m-82813b288/">
 <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 
-<a href="https://twitter.com/YOUR-TWITTER">
+<a href="https://twitter.com/TWITTER">
 <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM">
+<a href="https://www.instagram.com/INSTAGRAM">
 <img src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram"/>
 </a>
 
-<a href="https://t.me/YOUR-TELEGRAM">
+<a href="https://t.me/+25573052925">
 <img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram"/>
 </a>
 
-<a href="https://wa.me/YOUR-NUMBER">
+<a href="https://wa.me/+25573052925">
 <img src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://masterplanjr.netlify.app/">
 <img src="https://img.icons8.com/color/48/domain.png" alt="website"/>
 </a>
 
