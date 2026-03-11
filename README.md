@@ -4,13 +4,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=AmosStack&style=for-the-badge&color=blue" />
 
+
+
 </div>
 
 ---
 
 # Hi there 👋 I'm Amos
 
-I'm **AmosStack**, a passionate **Software Developer and Information Systems student** interested in building intelligent systems and scalable applications.
+I'm **AmosStack**, a passionate **Software Developer and Information Systems management student** interested in building intelligent systems and scalable applications.
 
 ---
 
@@ -133,5 +135,5 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems stu
 
 ---
 <div align="center">
- **Thanks for visiting my profile!**
+ <s>Thanks for visiting my profile!</s>
 </div>
