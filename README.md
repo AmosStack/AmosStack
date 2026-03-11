@@ -10,7 +10,7 @@
 
 ---
 
-# Hi there 👋 I'm Amos
+# Hi there 👋 Welcome
 
 I'm **AmosStack**, a passionate **Software Developer and Information Systems management student** interested in building intelligent systems and scalable applications.
 
@@ -52,7 +52,7 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 
 ---
 
-## 📊 GitHub Stats 📊
+## 📊 GitHub Stats 
 
 <p align="center">
 
@@ -66,30 +66,12 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 
 ---
 
-## 📈 Contribution Graph 📈
+## 📈 Contribution Graph 
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmosStack&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmosStack&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -134,6 +116,11 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 
 
 ---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 <div align="center">
  <b>Thanks for visiting my profile!</b>
 </div>
