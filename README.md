@@ -135,5 +135,5 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 
 ---
 <div align="center">
- <s>Thanks for visiting my profile!</s>
+ <b>Thanks for visiting my profile!</b>
 </div>
