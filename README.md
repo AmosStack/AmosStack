@@ -6,11 +6,12 @@
 
 
 
+
 </div>
 
 ---
 
-# Hi there 👋 Welcome
+## Hi there 👋 Welcome  
 
 I'm **AmosStack**, a passionate **Software Developer and Information Systems management student** interested in building intelligent systems and scalable applications.
 
@@ -24,7 +25,8 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 * 📫 Reach me at **[amgenious28@gmail.com](mailto:amgenious28@gmail.com)**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **Robots build robots**
-
+  
+[![committers.top badge](https://user-badge.committers.top/tanzania/AmosStack.svg)](https://user-badge.committers.top/tanzania/AmosStack)
 ---
 
 ## 🧰 Tech Stack
@@ -121,6 +123,8 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 <img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+
 <div align="center">
+ 
  <b>Thanks for visiting my profile!</b>
 </div>
