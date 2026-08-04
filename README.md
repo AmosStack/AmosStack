@@ -74,8 +74,16 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmosStack&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
+</p
+  
+---
 
+<div align="center">
+<p>“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” </p>
+
+<p><i>Edsger W. Dijkstra</i></p>
+
+</div>
 ---
 
 ## 🌐 Connect With Me
@@ -128,3 +136,4 @@ I'm **AmosStack**, a passionate **Software Developer and Information Systems man
  
  <b>Thanks for visiting my profile!</b>
 </div>
+
